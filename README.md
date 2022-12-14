@@ -1,0 +1,1 @@
+GITHUB PAGES: https://serjayp.github.io/Fashion-Blog-Static/
